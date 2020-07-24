@@ -1,7 +1,7 @@
     /*  Created by IntelliJ IDEA.
      *   Author: Krishnaveer Chahar(191500410
      *   Date: 20/7/2020
-     *   File: helloWorld.java
+     *   File: Task1.java
      */
     package lab1;
 
