@@ -5,7 +5,7 @@
      */
     package lab1;
 
-    public class helloWorld {
+    public class HelloWorld {
 
         // program1 - Create a "Hello, World!" program in Java.
 
