@@ -8,7 +8,7 @@ public class VariablesAndNames {
         String course4 = "OS";
         String course5 = "SE";
         String course6 = "Aptitude";
-        String course7 = "MathS";
+        String course7 = "Maths";
         String course8 = "Ethics";
         String teacher1 = "Atul Sir";
         String teacher2 = "Rishi Sir";
