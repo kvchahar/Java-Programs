@@ -4,7 +4,7 @@ public class VariablesAndNames {
     public static void main(String[] args) {
         String course1 = "English";
         String course2 = "DBMS";
-        String course3 = "OOPS";
+        String course3 = "OOP";
         String course4 = "OS";
         String course5 = "SE";
         String course6 = "Aptitude";
